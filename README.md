@@ -54,7 +54,7 @@ I work with AI as a collaborator: pairing with coding assistants to prototype fa
 
 <p>
   <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" />
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9JCXK0_DrJpCDGpFy9SUi0GrkNr7aa5MCxDkTg-3qVyJqssn9q3hUcdUt41xULqgf9t0YK952-rGyzTT-S7ixn8JKVayDP22YRiiVVPnNOfBuQwaHlJEOCPmau7cTCNzoXwaMs7BBpLE/s1080/laragon-yasya-indra.jpg" alt="Laragon" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9JCXK0_DrJpCDGpFy9SUi0GrkNr7aa5MCxDkTg-3qVyJqssn9q3hUcdUt41xULqgf9t0YK952-rGyzTT-S7ixn8JKVayDP22YRiiVVPnNOfBuQwaHlJEOCPmau7cTCNzoXwaMs7BBpLE/s1080/laragon-yasya-indra.jpg" alt="Laragon" style="witdh:50% 50%; aspect-ratio:1/1;"/>
 </p>
 
 ### Development Tools
