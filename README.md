@@ -82,7 +82,9 @@ I work with AI as a collaborator: pairing with coding assistants to prototype fa
     <td width="50%" valign="top">
       <h3>📦 SIMAS</h3>
       <p>SIMAS - Sistem Informasi Surat Masuk untuk pencatatan, pengelolaan disposisi bertahap, dan pengarsipan metadata surat di lingkungan BAPPERIDA.</p>
-      <p><b>Stack:</b> YOUR_TECH_STACK_SIMAS</p>
+      <p><b>Stack:</b> <p>
+  <img src="https://skillicons.dev/icons?i=php,js,py&theme=dark" alt="PHP, JavaScript, Python" />
+</p></p>
       <p><a href="https://github.com/RielAkuonza99/simas">🔗 View repository</a></p>
     </td>
   </tr>
