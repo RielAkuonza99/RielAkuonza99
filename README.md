@@ -82,48 +82,12 @@ I work with AI as a collaborator: pairing with coding assistants to prototype fa
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📦 YOUR_PROJECT_NAME_1</h3>
-      <p>YOUR_PROJECT_DESCRIPTION_1</p>
-      <p><b>Stack:</b> YOUR_TECH_STACK_1</p>
-      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1">🔗 View repository</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📦 YOUR_PROJECT_NAME_2</h3>
-      <p>YOUR_PROJECT_DESCRIPTION_2</p>
-      <p><b>Stack:</b> YOUR_TECH_STACK_2</p>
-      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2">🔗 View repository</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📦 YOUR_PROJECT_NAME_3</h3>
-      <p>YOUR_PROJECT_DESCRIPTION_3</p>
-      <p><b>Stack:</b> YOUR_TECH_STACK_3</p>
-      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_3">🔗 View repository</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📦 YOUR_PROJECT_NAME_4</h3>
-      <p>YOUR_PROJECT_DESCRIPTION_4</p>
-      <p><b>Stack:</b> YOUR_TECH_STACK_4</p>
-      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_4">🔗 View repository</a></p>
+      <h3>📦 SIMAS</h3>
+      <p>SIMAS - Sistem Informasi Surat Masuk untuk pencatatan, pengelolaan disposisi bertahap, dan pengarsipan metadata surat di lingkungan BAPPERIDA.</p>
+      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1](https://github.com/RielAkuonza99/simas.git">🔗 View repository</a></p>
     </td>
   </tr>
 </table>
-
-<br/>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0B1020&title_color=8B9CFF&icon_color=7C3AED&text_color=C7D2FE&ring_color=3B82F6&count_private=true" alt="Riel Akuonza GitHub stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0B1020&title_color=8B9CFF&text_color=C7D2FE&langs_count=6" alt="Riel Akuonza top languages" height="180" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0B1020&ring=7C3AED&fire=3B82F6&currStreakLabel=8B9CFF&sideLabels=C7D2FE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="Riel Akuonza GitHub contribution streak" />
-
-</div>
 
 <br/>
 
