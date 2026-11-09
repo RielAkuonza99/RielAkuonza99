@@ -1,117 +1,98 @@
 <!-- ============================================================
      Riel Akuonza | GitHub Profile README
      Replace every YOUR_* placeholder before publishing.
+     Palette (GitHub dark + red accent):
+       bg #0d1117 | surface #161b22 | border #30363d
+       text #e6edf3 | muted #8b949e | accent #ff3b3b
      ============================================================ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3b3b&height=4&section=header" alt="" width="100%" />
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060F,45:1E2A78,100:7C3AED&height=240&section=header&text=Riel%20Akuonza&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Vibe%20Engineering%20Student%20%C2%B7%20AI-Assisted%20Developer&descSize=18&descAlignY=60&descColor=A5B4FC" alt="Riel Akuonza - Vibe Engineering Student and AI-Assisted Developer" width="100%" />
+<h1>Riel Akuonza</h1>
 
 <a href="https://github.com/RielAkuonza99">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=8B9CFF&center=true&vCenter=true&width=640&height=48&lines=Turning+ideas+into+reality;Code+%C2%B7+Creativity+%C2%B7+AI;Building+digital+products+with+AI-assisted+workflows" alt="Typing animation: Turning ideas into reality. Code, creativity, AI." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=FF3B3B&center=true&vCenter=true&width=560&height=40&lines=Vibe+Coder+Engineer;Graphic+Designer;Turning+ideas+into+reality+through+code%2C+creativity%2C+and+AI" alt="Typing animation: Vibe Coder Engineer, Graphic Designer, turning ideas into reality through code, creativity, and AI" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Indonesia-%F0%9F%87%AE%F0%9F%87%A9-0B1020?style=for-the-badge&labelColor=0B1020&color=1E2A78" alt="Based in Indonesia" />
-<img src="https://img.shields.io/badge/Vibe%20Engineering-Student-0B1020?style=for-the-badge&labelColor=0B1020&color=7C3AED" alt="Vibe Engineering student" />
-<img src="https://img.shields.io/badge/AI--Assisted-Developer-0B1020?style=for-the-badge&labelColor=0B1020&color=3B82F6" alt="AI-assisted developer" />
+<a href="YOUR_DONATE_URL"><img src="https://img.shields.io/badge/Donate-ff3b3b?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Support my work with a donation" /></a>
+<a href="YOUR_DISCORD_INVITE"><img src="https://img.shields.io/badge/Join%20the%20Discord%20Community-161b22?style=for-the-badge&logo=discord&logoColor=ff3b3b&labelColor=161b22" alt="Join the Discord community" /></a>
 
 </div>
 
 <br/>
 
-## 👋 About Me
+## About
 
-> *"Turning ideas into reality through code, creativity, and AI."*
+I'm a Vibe Engineering student from Indonesia 🇮🇩, working as a vibe coder and graphic designer. I build digital products by pairing design thinking with AI coding assistants, going from a rough idea to something people can actually use.
 
-I'm **Riel Akuonza**, a Vibe Engineering student from Indonesia and a creative builder who loves turning ideas into working digital products.
-
-I work with AI as a collaborator: pairing with coding assistants to prototype faster, explore new approaches, and ship ideas that would otherwise stay on paper. I enjoy the full journey from a rough concept to something people can actually use, and I'm constantly learning along the way.
-
-- 🎓 Studying **Vibe Engineering**
-- 🤖 Exploring **AI-assisted development** workflows
-- 🛠️ Passionate about **building digital products**
-- 🌱 Always learning, always shipping
+> Turning ideas into reality through code, creativity, and AI.
 
 <br/>
 
-## 🧰 My Tech Stack
+## Featured Project
 
-### Programming Languages
+<a href="https://github.com/RielAkuonza99/simas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RielAkuonza99&repo=simas&theme=dark&bg_color=0d1117&border_color=30363d&title_color=ff3b3b&icon_color=ff3b3b&text_color=e6edf3&show_owner=false" alt="SIMAS repository card" />
+</a>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,py&theme=dark" alt="PHP, JavaScript, HTML, CSS, Python" />
-</p>
-
-### Frameworks & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,expo&theme=dark" alt="Node.js, Next.js, React.js, Expo" />
-</p>
-
-### Database & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" height="48" />
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9JCXK0_DrJpCDGpFy9SUi0GrkNr7aa5MCxDkTg-3qVyJqssn9q3hUcdUt41xULqgf9t0YK952-rGyzTT-S7ixn8JKVayDP22YRiiVVPnNOfBuQwaHlJEOCPmau7cTCNzoXwaMs7BBpLE/s1080/laragon-yasya-indra.jpg" alt="Laragon" width="48" height="48" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,github&theme=dark" alt="Visual Studio Code, GitHub" />
-</p>
-
-### AI & Coding Assistants
-
-<p>
-  <img src="https://skillicons.dev/icons?i=githubcopilot&theme=dark" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/Google%20Antigravity-0B1020?style=for-the-badge&labelColor=0B1020&color=3B82F6" alt="Google Antigravity" />
-  <img src="https://img.shields.io/badge/OpenCode-0B1020?style=for-the-badge&labelColor=0B1020&color=7C3AED" alt="OpenCode" />
-  <img src="https://img.shields.io/badge/Claude-0B1020?style=for-the-badge&labelColor=0B1020&color=8B5CF6" alt="Claude" />
-  <img src="https://img.shields.io/badge/ChatGPT-0B1020?style=for-the-badge&labelColor=0B1020&color=1E2A78" alt="ChatGPT" />
-</p>
+**SIMAS** is an incoming-mail information system (Sistem Informasi Surat Masuk) for recording mail, handling staged dispositions, and archiving letter metadata at BAPPERIDA.
 
 <br/>
 
-## 🚀 Featured Open Source Projects
+## Tech Stack
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📦 SIMAS</h3>
-      <p>SIMAS - Sistem Informasi Surat Masuk untuk pencatatan, pengelolaan disposisi bertahap, dan pengarsipan metadata surat di lingkungan BAPPERIDA.</p>
-      <p><b>Stack:</b> <p>
-  <img src="https://skillicons.dev/icons?i=php,js,py&theme=dark" alt="PHP, JavaScript, Python" width="80" height="45" />
-</p></p>
-      <p><a href="https://github.com/RielAkuonza99/simas">🔗 View repository</a></p>
+    <td width="170"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=php,js,html,css,py&theme=dark" alt="PHP, JavaScript, HTML, CSS, Python" /></td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,expo&theme=dark" alt="Node.js, Next.js, React.js, Expo" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend & Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" height="48" />
+      <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9JCXK0_DrJpCDGpFy9SUi0GrkNr7aa5MCxDkTg-3qVyJqssn9q3hUcdUt41xULqgf9t0YK952-rGyzTT-S7ixn8JKVayDP22YRiiVVPnNOfBuQwaHlJEOCPmau7cTCNzoXwaMs7BBpLE/s1080/laragon-yasya-indra.jpg" alt="Laragon" width="48" height="48" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,github&theme=dark" alt="Visual Studio Code, GitHub" /></td>
+  </tr>
+  <tr>
+    <td><b>AI Assistants</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=githubcopilot&theme=dark" alt="GitHub Copilot" height="48" />
+      <img src="https://img.shields.io/badge/Google%20Antigravity-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Google Antigravity" />
+      <img src="https://img.shields.io/badge/OpenCode-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="OpenCode" />
+      <img src="https://img.shields.io/badge/Claude-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="Claude" />
+      <img src="https://img.shields.io/badge/ChatGPT-161b22?style=flat-square&labelColor=161b22&color=30363d" alt="ChatGPT" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-## 🌐 Connect With Me
+## Connect
+
+<a href="https://linktr.ee/rielakuonza"><img src="https://img.shields.io/badge/Linktree-161b22?style=flat-square&logo=linktree&logoColor=ff3b3b" alt="Linktree" /></a>
+<a href="https://personalhub.web.id"><img src="https://img.shields.io/badge/Website-161b22?style=flat-square&logo=googlechrome&logoColor=ff3b3b" alt="Personal website" /></a>
+<a href="https://www.instagram.com/rielakuonza00/"><img src="https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=ff3b3b" alt="Instagram" /></a>
+<a href="mailto:rielakuonza99@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=ff3b3b" alt="Send an email" /></a>
+<a href="YOUR_DISCORD_INVITE"><img src="https://img.shields.io/badge/Discord-161b22?style=flat-square&logo=discord&logoColor=ff3b3b" alt="Discord community" /></a>
+
+<br/><br/>
 
 <div align="center">
 
-<a href="https://github.com/RielAkuonza99"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020&color=1E2A78" alt="GitHub profile" /></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://img.shields.io/badge/Instagram-0B1020?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B1020&color=7C3AED" alt="Instagram profile" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020&color=3B82F6" alt="LinkedIn profile" /></a>
-<a href="https://YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/Website-0B1020?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1020&color=8B5CF6" alt="Personal website" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020&color=1E2A78" alt="Send an email" /></a>
+<img src="https://komarev.com/ghpvc/?username=RielAkuonza99&label=Profile%20Views&color=ff3b3b&style=flat-square&labelColor=161b22" alt="Profile visitor counter" />
 
 </div>
 
-<br/>
-
-<div align="center">
-
-### ✨ Let's build something great together.
-
-<img src="https://komarev.com/ghpvc/?username=RielAkuonza99&label=Profile%20Views&color=7C3AED&style=flat-square&labelColor=0B1020" alt="Profile visitor counter" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:1E2A78,100:05060F&height=140&section=footer&animation=twinkling" alt="Footer wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff3b3b&height=4&section=footer" alt="" width="100%" />
