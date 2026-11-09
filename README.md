@@ -31,15 +31,6 @@ I'm a Vibe Engineering student from Indonesia 🇮🇩, working as a vibe coder 
 
 > Turning ideas into reality through code, creativity, and AI.
 
-<br/>
-
-## Featured Project
-
-<a href="https://github.com/RielAkuonza99/simas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RielAkuonza99&repo=simas&theme=dark&bg_color=0d1117&border_color=30363d&title_color=ff3b3b&icon_color=ff3b3b&text_color=e6edf3&show_owner=false" alt="SIMAS repository card" />
-</a>
-
-**SIMAS** is an incoming-mail information system (Sistem Informasi Surat Masuk) for recording mail, handling staged dispositions, and archiving letter metadata at BAPPERIDA.
 
 <br/>
 
