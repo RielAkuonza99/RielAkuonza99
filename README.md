@@ -18,8 +18,8 @@
 
 <br/><br/>
 
-<a href="YOUR_DONATE_URL"><img src="https://img.shields.io/badge/Donate-ff3b3b?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Support my work with a donation" /></a>
-<a href="YOUR_DISCORD_INVITE"><img src="https://img.shields.io/badge/Join%20the%20Discord%20Community-161b22?style=for-the-badge&logo=discord&logoColor=ff3b3b&labelColor=161b22" alt="Join the Discord community" /></a>
+<a href="https://teer.id/riel_akuonza"><img src="https://img.shields.io/badge/Donate-ff3b3b?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Support my work with a donation" /></a>
+<a href=""><img src="https://img.shields.io/badge/Join%20the%20Discord%20Community-161b22?style=for-the-badge&logo=discord&logoColor=ff3b3b&labelColor=161b22" alt="Join the Discord community" /></a>
 
 </div>
 
@@ -75,7 +75,7 @@ I'm a Vibe Engineering student from Indonesia 🇮🇩, working as a vibe coder 
 <a href="https://linktr.ee/rielakuonza"><img src="https://img.shields.io/badge/Linktree-161b22?style=flat-square&logo=linktree&logoColor=ff3b3b" alt="Linktree" /></a>
 <a href="https://personalhub.web.id"><img src="https://img.shields.io/badge/Website-161b22?style=flat-square&logo=googlechrome&logoColor=ff3b3b" alt="Personal website" /></a>
 <a href="https://www.instagram.com/rielakuonza00/"><img src="https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=ff3b3b" alt="Instagram" /></a>
-<a href="mailto:rielakuonza99@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=ff3b3b" alt="Send an email" /></a>
+<a href="mailto:rillkuofficial@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=ff3b3b" alt="Send an email" /></a>
 <a href="YOUR_DISCORD_INVITE"><img src="https://img.shields.io/badge/Discord-161b22?style=flat-square&logo=discord&logoColor=ff3b3b" alt="Discord community" /></a>
 
 <br/><br/>
