@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060F,45:1E2A78,100:7C3AED&height=240&section=header&text=Riel%20Akuonza&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Vibe%20Engineering%20Student%20%C2%B7%20AI-Assisted%20Developer&descSize=18&descAlignY=60&descColor=A5B4FC" alt="Riel Akuonza - Vibe Engineering Student and AI-Assisted Developer" width="100%" />
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/RielAkuonza99">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=8B9CFF&center=true&vCenter=true&width=640&height=48&lines=Turning+ideas+into+reality;Code+%C2%B7+Creativity+%C2%B7+AI;Building+digital+products+with+AI-assisted+workflows" alt="Typing animation: Turning ideas into reality. Code, creativity, AI." />
 </a>
 
@@ -53,8 +53,8 @@ I work with AI as a collaborator: pairing with coding assistants to prototype fa
 ### Database & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" />
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9JCXK0_DrJpCDGpFy9SUi0GrkNr7aa5MCxDkTg-3qVyJqssn9q3hUcdUt41xULqgf9t0YK952-rGyzTT-S7ixn8JKVayDP22YRiiVVPnNOfBuQwaHlJEOCPmau7cTCNzoXwaMs7BBpLE/s1080/laragon-yasya-indra.jpg" alt="Laragon" style="witdh:50% 50%; aspect-ratio:1/1;"/>
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" height="48" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9JCXK0_DrJpCDGpFy9SUi0GrkNr7aa5MCxDkTg-3qVyJqssn9q3hUcdUt41xULqgf9t0YK952-rGyzTT-S7ixn8JKVayDP22YRiiVVPnNOfBuQwaHlJEOCPmau7cTCNzoXwaMs7BBpLE/s1080/laragon-yasya-indra.jpg" alt="Laragon" width="48" height="48" />
 </p>
 
 ### Development Tools
@@ -77,14 +77,13 @@ I work with AI as a collaborator: pairing with coding assistants to prototype fa
 
 ## 🚀 Featured Open Source Projects
 
-> 🔧 These cards are placeholders. Replace each one with a real repository.
-
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>📦 SIMAS</h3>
       <p>SIMAS - Sistem Informasi Surat Masuk untuk pencatatan, pengelolaan disposisi bertahap, dan pengarsipan metadata surat di lingkungan BAPPERIDA.</p>
-      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1](https://github.com/RielAkuonza99/simas.git">🔗 View repository</a></p>
+      <p><b>Stack:</b> YOUR_TECH_STACK_SIMAS</p>
+      <p><a href="https://github.com/RielAkuonza99/simas">🔗 View repository</a></p>
     </td>
   </tr>
 </table>
@@ -95,7 +94,7 @@ I work with AI as a collaborator: pairing with coding assistants to prototype fa
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020&color=1E2A78" alt="GitHub profile" /></a>
+<a href="https://github.com/RielAkuonza99"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020&color=1E2A78" alt="GitHub profile" /></a>
 <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://img.shields.io/badge/Instagram-0B1020?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B1020&color=7C3AED" alt="Instagram profile" /></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020&color=3B82F6" alt="LinkedIn profile" /></a>
 <a href="https://YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/Website-0B1020?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1020&color=8B5CF6" alt="Personal website" /></a>
@@ -109,7 +108,7 @@ I work with AI as a collaborator: pairing with coding assistants to prototype fa
 
 ### ✨ Let's build something great together.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7C3AED&style=flat-square&labelColor=0B1020" alt="Profile visitor counter" />
+<img src="https://komarev.com/ghpvc/?username=RielAkuonza99&label=Profile%20Views&color=7C3AED&style=flat-square&labelColor=0B1020" alt="Profile visitor counter" />
 
 </div>
 
