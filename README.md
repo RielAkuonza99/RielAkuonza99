@@ -1,177 +1,152 @@
-# 🌌 GitHub Profile README
+<!-- ============================================================
+     Riel Akuonza | GitHub Profile README
+     Replace every YOUR_* placeholder before publishing.
+     ============================================================ -->
 
-<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Hello,%20I'm%20Ica!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060F,45:1E2A78,100:7C3AED&height=240&section=header&text=Riel%20Akuonza&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Vibe%20Engineering%20Student%20%C2%B7%20AI-Assisted%20Developer&descSize=18&descAlignY=60&descColor=A5B4FC" alt="Riel Akuonza - Vibe Engineering Student and AI-Assisted Developer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+modern+web+applications;Exploring+new+technologies;Open+Source+%26+Creative+Coding;Turning+ideas+into+reality" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=8B9CFF&center=true&vCenter=true&width=640&height=48&lines=Turning+ideas+into+reality;Code+%C2%B7+Creativity+%C2%B7+AI;Building+digital+products+with+AI-assisted+workflows" alt="Typing animation: Turning ideas into reality. Code, creativity, AI." />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Indonesia-%F0%9F%87%AE%F0%9F%87%A9-0B1020?style=for-the-badge&labelColor=0B1020&color=1E2A78" alt="Based in Indonesia" />
+<img src="https://img.shields.io/badge/Vibe%20Engineering-Student-0B1020?style=for-the-badge&labelColor=0B1020&color=7C3AED" alt="Vibe Engineering student" />
+<img src="https://img.shields.io/badge/AI--Assisted-Developer-0B1020?style=for-the-badge&labelColor=0B1020&color=3B82F6" alt="AI-assisted developer" />
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-```javascript
-const ica = {
-    role: "Full Stack Developer",
-    location: "Indonesia 🇮🇩",
-    interests: [
-        "Web Development",
-        "Open Source",
-        "Artificial Intelligence"
-    ],
-    currentlyLearning: ["Next.js", "Supabase", "Python"],
-    motto: "Code. Create. Innovate."
-};
-```
+> *"Turning ideas into reality through code, creativity, and AI."*
 
-I love building modern applications, exploring new technologies, and creating digital experiences that are useful and meaningful.
+I'm **Riel Akuonza**, a Vibe Engineering student from Indonesia and a creative builder who loves turning ideas into working digital products.
 
----
+I work with AI as a collaborator: pairing with coding assistants to prototype faster, explore new approaches, and ship ideas that would otherwise stay on paper. I enjoy the full journey from a rough concept to something people can actually use, and I'm constantly learning along the way.
 
-## 🚀 My Tech Stack & Skills
+- 🎓 Studying **Vibe Engineering**
+- 🤖 Exploring **AI-assisted development** workflows
+- 🛠️ Passionate about **building digital products**
+- 🌱 Always learning, always shipping
 
-### 💻 Programming Languages
+<br/>
+
+## 🧰 My Tech Stack
+
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,python" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,py&theme=dark" alt="PHP, JavaScript, HTML, CSS, Python" />
 </p>
 
-### 🌐 Frameworks & Development
+### Frameworks & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,expo" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,expo&theme=dark" alt="Node.js, Next.js, React.js, Expo" />
 </p>
 
-### 🗄️ Database & Tools
+### Database & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=supabase,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Laragon-0B1020?style=for-the-badge&labelColor=0B1020&color=1E2A78" alt="Laragon" />
 </p>
+
+### Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Laragon-Development%20Environment-0E83CD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Expo-React%20Native-000020?style=for-the-badge&logo=expo" />
+  <img src="https://skillicons.dev/icons?i=vscode,github&theme=dark" alt="Visual Studio Code, GitHub" />
 </p>
 
-### 🤖 AI & Developer Tools
+### AI & Coding Assistants
 
 <p>
-  <img src="https://img.shields.io/badge/Antigravity-AI%20IDE-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenCode-AI%20Coding-18181B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-AI%20Assistant-000000?style=for-the-badge&logo=githubcopilot" />
+  <img src="https://skillicons.dev/icons?i=githubcopilot&theme=dark" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Google%20Antigravity-0B1020?style=for-the-badge&labelColor=0B1020&color=3B82F6" alt="Google Antigravity" />
+  <img src="https://img.shields.io/badge/OpenCode-0B1020?style=for-the-badge&labelColor=0B1020&color=7C3AED" alt="OpenCode" />
+  <img src="https://img.shields.io/badge/Claude-0B1020?style=for-the-badge&labelColor=0B1020&color=8B5CF6" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-0B1020?style=for-the-badge&labelColor=0B1020&color=1E2A78" alt="ChatGPT" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Claude-AI%20Assistant-D97757?style=for-the-badge&logo=claude" />
-  <img src="https://img.shields.io/badge/ChatGPT-AI%20Assistant-74AA9C?style=for-the-badge&logo=openai" />
-</p>
+<br/>
 
----
+## 🚀 Featured Open Source Projects
 
-## ✨ Open Source Projects
+> 🔧 These cards are placeholders. Replace each one with a real repository.
 
 <table>
-<tr>
-<td width="50%">
-
-### 🚀 Project One
-
-A modern web application built with PHP and JavaScript.
-
-**Tech:** PHP · JavaScript · MySQL
-
-[🔗 View Repository](https://github.com/YOUR_USERNAME/PROJECT_ONE)
-
-</td>
-<td width="50%">
-
-### 🌐 Project Two
-
-A full-stack application using Next.js and Supabase.
-
-**Tech:** Next.js · React · Supabase
-
-[🔗 View Repository](https://github.com/YOUR_USERNAME/PROJECT_TWO)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📱 Project Three
-
-A mobile application built with Expo and React Native.
-
-**Tech:** Expo · React · Supabase
-
-[🔗 View Repository](https://github.com/YOUR_USERNAME/PROJECT_THREE)
-
-</td>
-<td width="50%">
-
-### 💡 More Projects
-
-Explore my other repositories and experiments.
-
-**Tech:** Various Technologies
-
-[🔗 Explore All Projects](https://github.com/YOUR_USERNAME?tab=repositories)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 YOUR_PROJECT_NAME_1</h3>
+      <p>YOUR_PROJECT_DESCRIPTION_1</p>
+      <p><b>Stack:</b> YOUR_TECH_STACK_1</p>
+      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1">🔗 View repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 YOUR_PROJECT_NAME_2</h3>
+      <p>YOUR_PROJECT_DESCRIPTION_2</p>
+      <p><b>Stack:</b> YOUR_TECH_STACK_2</p>
+      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2">🔗 View repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 YOUR_PROJECT_NAME_3</h3>
+      <p>YOUR_PROJECT_DESCRIPTION_3</p>
+      <p><b>Stack:</b> YOUR_TECH_STACK_3</p>
+      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_3">🔗 View repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 YOUR_PROJECT_NAME_4</h3>
+      <p>YOUR_PROJECT_DESCRIPTION_4</p>
+      <p><b>Stack:</b> YOUR_TECH_STACK_4</p>
+      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_4">🔗 View repository</a></p>
+    </td>
+  </tr>
 </table>
 
----
+<br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0B1020&title_color=8B9CFF&icon_color=7C3AED&text_color=C7D2FE&ring_color=3B82F6&count_private=true" alt="Riel Akuonza GitHub stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0B1020&title_color=8B9CFF&text_color=C7D2FE&langs_count=6" alt="Riel Akuonza top languages" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0B1020&ring=7C3AED&fire=3B82F6&currStreakLabel=8B9CFF&sideLabels=C7D2FE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="Riel Akuonza GitHub contribution streak" />
 
 </div>
 
----
+<br/>
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://www.instagram.com/YOUR_INSTAGRAM/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://YOUR_PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020&color=1E2A78" alt="GitHub profile" /></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://img.shields.io/badge/Instagram-0B1020?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B1020&color=7C3AED" alt="Instagram profile" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020&color=3B82F6" alt="LinkedIn profile" /></a>
+<a href="https://YOUR_WEBSITE_URL"><img src="https://img.shields.io/badge/Website-0B1020?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1020&color=8B5CF6" alt="Personal website" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1020&color=1E2A78" alt="Send an email" /></a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+### ✨ Let's build something great together.
 
-### 💙 Thanks for visiting my profile!
-
-*Keep learning. Keep building. Keep growing.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=100&section=footer" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7C3AED&style=flat-square&labelColor=0B1020" alt="Profile visitor counter" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:1E2A78,100:05060F&height=140&section=footer&animation=twinkling" alt="Footer wave" width="100%" />
