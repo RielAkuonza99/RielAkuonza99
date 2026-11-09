@@ -54,7 +54,7 @@ I work with AI as a collaborator: pairing with coding assistants to prototype fa
 
 <p>
   <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Laragon-0B1020?style=for-the-badge&labelColor=0B1020&color=1E2A78" alt="Laragon" />
+  <img src="https://img.shields.io/badge/Laragon-0B1020?style=for-the-badge&labelColor=0B1020&color=1E2A78](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyVxHO3qUoz2ea6cIdrN_6AND91tNvzyGhYtqNaPVKMApcx8ao_ijEeBu&s=10" alt="Laragon" />
 </p>
 
 ### Development Tools
